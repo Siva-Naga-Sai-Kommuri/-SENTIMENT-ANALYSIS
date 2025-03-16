@@ -8,7 +8,7 @@ nltk.download('vader_lexicon')
 sia = SentimentIntensityAnalyzer()
 
 # Sample text
-text = "I absolutely love this product! It's amazing and works perfectly."
+text = "It is very bad product."
 
 
 
